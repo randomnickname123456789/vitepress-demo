@@ -5,3 +5,5 @@ Jätteavancerad funktion tillagd här
 Fixar en kritisk bugg i min bankapp
 
 En funktion som visar en summering av månadens inkomster och utgifter
+
+Ändat färg från blå till röd för att markera minussaldo
